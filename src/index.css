@@ -1,0 +1,17 @@
+.card {
+  display: inline-block;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.295);
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.card:hover {
+  margin: 7px;
+  padding: 3px;
+}
+
+.card .cardimage {
+  max-width: 100px;
+  height: auto;
+}
